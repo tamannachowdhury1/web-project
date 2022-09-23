@@ -3,6 +3,10 @@ h1 {
 
 }
 
+h1 {
+    font-size: 50px;
+}
+
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital@0;1&display=swap');
 
 .margin {
@@ -62,6 +66,11 @@ h1 {
 .people {
     width: 150px;
     border-radius: 3%;
+    margin-top: 10%;
+}
+
+.card-img {
+    padding-bottom: 5%;
 }
 
 body {
@@ -301,11 +310,6 @@ body {
 
 }
 
-.color {
-    color: #f6b523;
-
-}
-
 .card-x {
     padding-left: 10%;
     padding-right: 10%;
@@ -324,10 +328,6 @@ body {
 .card-3 {
     margin-left: 4%;
     width: 80%;
-}
-
-.card-2 {
-    /* margin-right: -18%; */
 }
 
 .footer-color {
